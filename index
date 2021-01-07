@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>N7PSR Ham Radio</title>
+<title>NW7O Ham Radio</title>
 </head>
 
 <body style="background-color:FireBrick;">
-<center><h1>N7PSR Ham Radio</h1></center>
+<center><h1>NW7O Ham Radio</h1></center>
 
 <nav>
 <ul>
@@ -14,12 +14,11 @@
 </nav>
 
 <h1>About Me</h1>
-<p>
-My name is Sam Reynolds, amateur radio callsign N7PSR. I was originally license in 2016 as KM4WDK and received my General and Extra in the summer of 2020. I am interested in most things in ham radio but my main focuses are HF, specifically contesing, digital modes and portable operating.
-</p>
+<p>My name is Sam Reynolds, amateur radio callsign NW7O. I was originally license in 2016 as KM4WDK and then got a vanity, N7PSR, in early 2020. I tested for both my General and Extra in mid 2020 online with GLAARG VEC, who does some amazing work.</p>
+<p>I am interested in most parts of amateur radio, but mostly HF operating and modes. I enjoy contesting and DXing on both SSB and FT8. Much of my HF operating is done remotely thanks to the Remote Ham Radio Youth program. This program allows me to remotely operate some of the best stations in the US completely free. Thank you to W2RE Ray for this oppurtunity!</p>
 
 <h1>QRZ Logbook</h1>
-<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/N7PSR/" width="640"></iframe>
+<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/NW7O/" width="640"></iframe>
 
 <a href="mailto:n7psrham@gmail.com">Contact Me</a>
 
@@ -29,8 +28,9 @@ My name is Sam Reynolds, amateur radio callsign N7PSR. I was originally license 
 <a href="https://www.revolvermaps.com/livestats/51zyq6zrl08/"><img alt="Stats" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left="" data-darkreader-inline-border-right="" data-darkreader-inline-border-top="" src="//rf.revolvermaps.com/w/3/s/a/3/0/2/ffffff/010020/aa0000/51zyq6zrl08.png" style="--darkreader-inline-border-bottom:currentcolor; --darkreader-inline-border-left:currentcolor; --darkreader-inline-border-right:currentcolor; --darkreader-inline-border-top:currentcolor; border:0px none" /></a></
 
 <h1>Youtube Links</h1>
-<P>I will occasionally post videos of things I do to the N7PSR Sam YouTube channel</P>
+<P>I will occasionally post videos of things I do to the NW7O Sam YouTube channel</P>
 
 <p>My grandfather and I run a YouTube Channel where he does presentations on American Military History, usually focusing on the people. We would love it if you would check out some of the videos!</p>
+<p>History with Dr Frank Stritter</p>
 </body>
 </html>
